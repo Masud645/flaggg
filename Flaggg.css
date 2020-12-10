@@ -1,0 +1,19 @@
+.full {
+  background-color: green ;
+  width: 200px ;
+  height: 100px ;
+  margin: auto ;
+  padding: 20px;
+}
+.red {
+background-color: red ;
+  width: 100px ;
+  height: 100px ;
+  margin: auto ;
+  border-radius: 50%;
+}
+.name {
+  font-size: 30px;
+  font-weight: 900;
+  text-align: center ;
+}
